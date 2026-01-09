@@ -1,5 +1,6 @@
 # Kaggle Competitions Submission 
 This is the repository for so far submitted entries for the Kaggle competition.
+
 kaggle-competitions/
 ├── README.md
 ├── titanic-survival-analysis/
